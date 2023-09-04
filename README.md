@@ -1,17 +1,15 @@
+[![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Dilesh Nishaman</h1>
-<h3 align="center">A passionate software developer from Sri Lanka</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilesh001" alt="dilesh001" /></a> </p>
+<h3 align="center">Coding the Future: A Journey through Software Engineering</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 - 🌱 I’m currently learning **Mobile Application Development**
-
-- 👯 I’m looking to collaborate on **Hospital Managment System**
 
 - 💬 Ask me about **java, C, C#, MYSQL, HTML**
 
 - 📫 How to reach me **dnishaman830@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am Friendly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
